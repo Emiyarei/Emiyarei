@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emiyarei
-- 👀 I’m interested in ...Frontend, UI/UX, Java,and Python
-- 🌱 I’m currently learning ...React JS and 
+- 👀 I’m interested in ...Frontend, UI/UX, Java, and Python
+- 🌱 I’m currently learning ...React JS, Cloud Computing and Cybersecurity.
 - 💞️ I’m looking to collaborate on ...designing and developing websites
 - 📫 How to reach me ...email @joneskelvin1103@gmail.com
 - 😄 Pronouns: ...
