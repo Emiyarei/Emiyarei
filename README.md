@@ -11,9 +11,6 @@
 </p>
 
 
-<p align="center">
-  <b>🚀 Front-End Web Developer | ☁️ Cloud Enthusiast | 📱 Mobile App Developer</b>
-</p>
 
 ---
 
@@ -22,7 +19,7 @@
 I'm a passionate developer who thrives on building beautiful, functional, and scalable digital experiences. With a strong foundation in front-end technologies, cloud architecture, and mobile app development, I love turning ideas into real-world products.
 
 - 🎨 Crafting sleek, responsive UIs with **React**, **Next.js**, and **Tailwind CSS**
-- ☁️ Deploying and scaling applications using **AWS**, **Firebase**, and **Docker**
+- ☁️ Deploying and scaling applications using **AWS**, and **Docker**
 - 📱 Building cross-platform mobile apps with **Flutter** and **React Native**
 - 💡 Always learning and exploring emerging technologies
 
@@ -31,16 +28,16 @@ I'm a passionate developer who thrives on building beautiful, functional, and sc
 ## 🛠️ Tech Stack
 
 **Front-End:**  
-`HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `React` • `Next.js` • `Tailwind CSS` • `Redux`
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `React` • `Next.js` • `Tailwind CSS` 
 
 **Mobile:**  
-`Flutter` • `Dart` • `React Native` • `Expo`
+`Flutter`  • `React Native` 
 
 **Cloud & DevOps:**  
 `AWS (EC2, S3, Lambda)` • `Firebase` • `Docker` • `GitHub Actions`
 
 **Tools & Other:**  
-`Git` • `VS Code` • `Figma` • `Postman` • `Vercel` • `Netlify`
+`Git` • `VS Code` • `Figma` • `Postman`  • `Netlify`
 
 ---
 
