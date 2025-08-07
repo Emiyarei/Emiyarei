@@ -46,7 +46,7 @@ I'm a passionate developer who thrives on building beautiful, functional, and sc
 ## 📈 My GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kelvin Jones GitHub Stats&show_icons=true&theme=react&rank_icon=github&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react&rank_icon=github&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=react&hide_border=true" />
 </p>
 
