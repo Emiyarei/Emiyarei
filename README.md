@@ -28,13 +28,13 @@ I'm a passionate developer who thrives on building beautiful, functional, and sc
 ## 🛠️ Tech Stack
 
 **Front-End:**  
-`HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `React` • `Next.js` • `Tailwind CSS` 
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `React` • `Next.js`
 
 **Mobile:**  
 `Flutter`  • `React Native` 
 
-**Cloud & DevOps:**  
-`AWS (EC2, S3, Lambda)` • `Firebase` • `Docker` • `GitHub Actions`
+**Cloud:**  
+`AWS (EC2, S3, Lambda, IAM, CloudWatch, CloudFormation)`  • `Docker` • `GitHub Actions`
 
 **Tools & Other:**  
 `Git` • `VS Code` • `Figma` • `Postman`  • `Netlify`
