@@ -3,7 +3,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hi%20👋,%20I'm%20[Kelvin Jones]%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hi%20👋,%20I'm%20[Your%20Name]%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">
@@ -26,16 +26,16 @@ I'm a passionate developer who thrives on building beautiful, functional, and sc
 ## 🛠️ Tech Stack
 
 **Front-End:**  
-`HTML5` • `CSS3` • `JavaScript (ES6+)`  • `React` • `Next.js` • `Tailwind CSS` 
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `React` • `Next.js` • `Tailwind CSS` • `Redux`
 
 **Mobile:**  
-`Flutter`  • `React Native` 
+`Flutter` • `Dart` • `React Native` • `Expo`
 
 **Cloud & DevOps:**  
 `AWS (EC2, S3, Lambda)` • `Firebase` • `Docker` • `GitHub Actions`
 
 **Tools & Other:**  
-`Git` • `VS Code` • `Figma` • `Postman`  • `Netlify`
+`Git` • `VS Code` • `Figma` • `Postman` • `Vercel` • `Netlify`
 
 ---
 
@@ -80,6 +80,3 @@ I'm a passionate developer who thrives on building beautiful, functional, and sc
 ---
 
 <p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
-
-
-
