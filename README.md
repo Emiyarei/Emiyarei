@@ -3,8 +3,13 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hi%20👋,%20I'm%20 Kelvin Jones%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hi%20👋,%20I'm%20Kelvin%20Jones%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
+
+<p align="center">
+  <b>🚀 Front-End Web Developer | ☁️ Cloud Enthusiast | 📱 Mobile App Developer</b>
+</p>
+
 
 <p align="center">
   <b>🚀 Front-End Web Developer | ☁️ Cloud Enthusiast | 📱 Mobile App Developer</b>
