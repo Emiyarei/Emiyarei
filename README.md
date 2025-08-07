@@ -90,7 +90,7 @@ I apply best practices in version control, debugging, testing, and maintainable 
 ## 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Emiyarei&theme=react-dark&hide_border=true" />
 </p>
 
 ---
