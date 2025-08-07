@@ -41,15 +41,9 @@ I'm a passionate developer who thrives on building beautiful, functional, and sc
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&no-frame=true&row=2&column=4" />
-</p>
 
----
-
-## 📈 GitHub Stats & Streaks
+## 📈 My GitHub Stats & Streaks
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react&rank_icon=github&hide_border=true" />
