@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>🚀 Front-End Web Developer | ☁️ Cloud Enthusiast | 📱 Mobile App Developer</b>
+  <b>🚀 Software Developer | ☁️ Cloud Engineering | AWS | Building toward Cloud Security</b>
 </p>
 
 
