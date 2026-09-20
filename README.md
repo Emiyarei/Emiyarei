@@ -16,42 +16,40 @@
 
 ## 🧠 About Me
 
-I'm a passionate developer who thrives on building beautiful, functional, and scalable digital experiences. With a strong foundation in front-end technologies, cloud architecture, and mobile app development, I love turning ideas into real-world products.
+I'm a software developer currently expanding my expertise into Cloud Engineering and Cloud Security.
 
-- 🎨 Crafting sleek, responsive UIs with **React**, **Next.js**, and **Tailwind CSS**
-- ☁️ Deploying and scaling applications using **AWS**, and **Docker**
-- 📱 Building cross-platform mobile apps with **Flutter** and **React Native**
-- 💡 Always learning and exploring emerging technologies
+I have experience building web and mobile applications and am now developing hands-on skills in AWS infrastructure, Infrastructure as Code, CI/CD, and cloud security.
 
+My current focus includes AWS, Terraform, Git, GitHub Actions, Docker, IAM, networking, monitoring, and infrastructure automation.
+
+I believe the best way to learn technology is by building real systems, documenting the process, and continuously improving them.
 ---
 
 ## 👨‍💻 Programming Experience
 
 I have hands-on experience working with a wide range of programming languages in real-world projects, ranging from web applications to backend services and automation scripts.
 
-- 🔹 **HTML** — Semantic markup for accessible and SEO-friendly web structures.
-- 🔹 **CSS** — Styling with Flexbox, Grid, media queries, and animations for responsive UIs.
-- 🔹 **JavaScript** — DOM manipulation, ES6+, async/await, APIs, and modern frameworks like React.
-- 🔹 **Java** — Object-oriented design, data structures, Android development, and backend logic.
-- 🔹 **Python** — Scripting, automation, data processing, and working with libraries like Pandas and Flask.
-
-I apply best practices in version control, debugging, testing, and maintainable code across all languages I work with.
-
 ---
 
 ## 🛠️ Tech Stack
 
-**Front-End:**  
-`HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `React` • `Next.js`
+Cloud & Infrastructure
+AWS • Terraform (learning) • Docker
 
-**Mobile:**  
-`Flutter`  • `React Native` 
+DevOps
+Git • GitHub • GitHub Actions
 
-**Cloud:**  
-`AWS (EC2, S3, Lambda, IAM, CloudWatch, CloudFormation)`  • `Docker` • `GitHub Actions`
+Programming
+Python • JavaScript • TypeScript • Java
 
-**Tools & Other:**  
-`Git` • `VS Code` • `Figma` • `Postman`  • `Netlify`
+Web Development
+React • Next.js • HTML • CSS
+
+Mobile
+Flutter • React Native
+
+Cloud Security — Building Competency
+IAM • CloudTrail • CloudWatch • AWS Security Fundamentals
 
 ---
 
